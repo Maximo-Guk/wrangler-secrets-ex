@@ -3,13 +3,4 @@ main = "src/worker.ts"
 compatibility_date = "2023-06-06"
 
 [vars]
-MY_VARIABLE2 = "local_value"
-
-[env.production]
-MY_VARIABLE = "production_value"
-
-[env.staging]
-MY_VARIABLE = "staging_value"
-
-# [env.shared]
-# SHARED_VARIABLE = "shared_value"
+MY_VARIABLE2 = "NOT_SECRET"
