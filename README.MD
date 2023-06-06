@@ -1,0 +1,1 @@
+wrangler secret put MY_VARIABLE
